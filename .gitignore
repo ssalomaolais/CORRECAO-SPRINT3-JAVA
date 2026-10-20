@@ -1,0 +1,19 @@
+# Ficheiros compilados do Java
+*.class
+*.log
+
+# Pastas de build do VS Code e Java
+bin/
+.bin/
+obj/
+
+# Configurações locais do editor (VS Code)
+.vscode/
+.project
+.classpath
+.settings/
+
+# Arquivos temporários do sistema operativo
+Thumbs.db
+.DS_Store# Pasta de build do Maven
+target/
